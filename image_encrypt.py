@@ -74,7 +74,7 @@ def get_file(prompt, must_exist=True):
 
 def main():
     print("=" * 52)
-    print("   Pixel Manipulation Image Encryption — Task 02")
+    print("   Pixel Manipulation Image Encryption")
     print("=" * 52)
 
     if 'PIL' not in sys.modules and 'Pillow' not in sys.modules:
